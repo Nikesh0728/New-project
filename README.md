@@ -8,17 +8,9 @@ Your DIGI POST application now includes **comprehensive security features** with
 
 ## 🎯 Core Features
 
-### 1. **Face Recognition Login** 👤
-- New login tab for face-based authentication
-- Real-time camera feed display
-- Automatic face matching with stored biometric data
-- Fallback to password login available
-
-### 2. **Face Registration** 📸
-- Optional during account creation
-- Easy camera capture interface
-- Facial biometric storage with account
-- Confirmation feedback
+### 1. ** Login** 👤
+- New login tab 
+- Fallback to password login available.
 
 ### 3. **Password Strength Meter** 🔐
 - 5-point requirement system
@@ -68,8 +60,6 @@ Your DIGI POST application now includes **comprehensive security features** with
 1. Go to **Sign Up** page
 2. Fill all required fields
 3. Create strong password (watch strength meter turn green)
-4. **Optional**: Enable face recognition by checking the checkbox
-5. If enabled: Click camera, position face, capture
 6. Agree to terms
 7. Click **Create Account**
 
@@ -79,13 +69,6 @@ Your DIGI POST application now includes **comprehensive security features** with
 2. Enter email and password
 3. Click **Login**
 
-**Method 2 - Face Recognition:**
-1. Go to **Login** page
-2. Click **Face Recognition** tab
-3. Click **Start Face Recognition**
-4. Allow camera access
-5. System automatically recognizes and logs you in
-
 ---
 
 ## 🔒 Security Improvements
@@ -93,8 +76,7 @@ Your DIGI POST application now includes **comprehensive security features** with
 ### What's Protected
 ✓ **Registration**: Email uniqueness, phone format, strong passwords  
 ✓ **Login**: Attempt limiting, account locking, failed attempt tracking  
-✓ **Passwords**: Strength requirements, match validation  
-✓ **Biometrics**: Face capture, storage, verification  
+✓ **Passwords**: Strength requirements, match validation   
 ✓ **Sessions**: Login history, remember me option  
 
 ### What's Validated
@@ -389,23 +371,6 @@ Add these for full security:
 - **Phone**: 1800-DIGI-POST
 - **Email**: support@digipost.com
 - **Website**: www.digipost.com
-
----
-
-## ✨ What's Working
-
-✅ Face recognition login with camera interface  
-✅ Face registration during signup  
-✅ Password strength meter with 5 requirements  
-✅ Real-time email validation  
-✅ Real-time phone validation  
-✅ Password match confirmation  
-✅ Account locking after 5 failed attempts  
-✅ Login attempt counter  
-✅ Remember me functionality  
-✅ Enhanced error messages  
-✅ Mobile-responsive design  
-✅ Cross-browser compatibility  
 
 ---
 
